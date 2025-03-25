@@ -26,4 +26,4 @@ This Task Manager App is a powerful tool designed to help users manage their pro
 - **React.js**: Frontend framework
 
 ## Contributing
-We welcome contributions! Please just make a pull request to the repo
+We welcome contributions! Please just make a pull request to the repository
